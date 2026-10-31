@@ -46,4 +46,5 @@ appletviewer Main.html
 # Expected Result
 The Java Applet successfully demonstrates string animation using multithreading and AWT graphics.
 # Sample Output
-C:\Users\Hp\OneDrive\Pictures\Screenshots\Output02.jpg.png
+<img width="1332" height="496" alt="Output02 jpg" src="https://github.com/user-attachments/assets/3ac63230-f198-410d-99f8-396edc9792de" />
+
