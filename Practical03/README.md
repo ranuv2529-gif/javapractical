@@ -60,7 +60,8 @@ For example, if the first number is `20` and the second number is `5`:
 |Subtraction (-)	| 15.0|
 |Multiplication (*) |	100.0|
 |Division (/) |	4.0|
-|---------------------|
+
+
 If the user enters invalid numbers, the program displays `Enter valid numbers`. If the user attempts to divide by zero, it displays `Cannot divide by zero`.
 # Sample Output
 <img width="1145" height="446" alt="Output 03" src="https://github.com/user-attachments/assets/39fbd913-fe73-433a-a7a4-d90111848a16" />
