@@ -21,11 +21,10 @@
   4. Enter the dimensions and elements of both matrices when prompted.
        
 Alternatively, from the directory containing the Practical01 folder, run:
-
-'''bash
+```bash
 javac Practical01/Main.java
 java Practical01.Main
-'''   
+```   
 # Expected Result
   The program successfully multiplies two compatible matrices and displays their product. If the matrices are incompatible for multiplication, it displays a message indicating that multiplication is not possible.
   # Sample Output
