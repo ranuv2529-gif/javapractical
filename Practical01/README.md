@@ -23,9 +23,10 @@
 Alternatively, from the directory containing the Practical01 folder, run:
 
 '''bash
-   javac Practical01/Main.java
-   java Practical01.Main
+javac Practical01/Main.java
+java Practical01.Main
 '''   
 # Expected Result
   The program successfully multiplies two compatible matrices and displays their product. If the matrices are incompatible for multiplication, it displays a message indicating that multiplication is not possible.
   # Sample Output
+<img width="488" height="370" alt="Screenshot 2026-10-15 115428" src="https://github.com/user-attachments/assets/cd234c08-44ef-4028-9640-34af2f71f9c4" />
