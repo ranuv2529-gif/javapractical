@@ -1,10 +1,10 @@
 # Practical 01: Matrix Multiplication in Java
- Write a program for matrix multiplication. Use InputStreamReader and BufferedReader classes for Input/Output.
+  Write a program for matrix multiplication. Use InputStreamReader and BufferedReader classes for Input/Output.
 
 # Technologies Used
-  Java
-  BufferedReader
-  InputStreamReader
+  - Java
+  - BufferedReader
+  - InputStreamReader
 # Concepts Used
   Two-dimensional arrays
   Nested for loops
