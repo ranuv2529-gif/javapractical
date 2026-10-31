@@ -22,7 +22,7 @@
        
 Alternatively, from the directory containing the Practical01 folder, run:
 
-'''
+'''bash
    javac Practical01/Main.java
    java Practical01.Main
 '''   
