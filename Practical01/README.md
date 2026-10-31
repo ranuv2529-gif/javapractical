@@ -1,4 +1,4 @@
-# Practical 01: Matrix Multiplication in Java
+ # Practical 01: Matrix Multiplication in Java
   Write a program for matrix multiplication. Use InputStreamReader and BufferedReader classes for Input/Output.
 
 # Technologies Used
@@ -19,11 +19,12 @@
   2. Open the Main.java file inside the Practical01 package.
   3. Compile and run the program.
   4. Enter the dimensions and elements of both matrices when prompted.
-Alternatively, from the directory containing the Practical01 folder, run:
-
+       
+  Alternatively, from the directory containing the Practical01 folder, run:
+'''bash
    javac Practical01/Main.java
    java Practical01.Main
-   
+'''   
 # Expected Result
   The program successfully multiplies two compatible matrices and displays their product. If the matrices are incompatible for multiplication, it displays a message indicating that multiplication is not possible.
   # Sample Output
