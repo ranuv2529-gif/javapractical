@@ -21,7 +21,7 @@
   4. Enter the dimensions and elements of both matrices when prompted.
        
   Alternatively, from the directory containing the Practical01 folder, run:
-'''bash
+'''java
    javac Practical01/Main.java
    java Practical01.Main
 '''   
