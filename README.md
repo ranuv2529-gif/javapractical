@@ -31,4 +31,4 @@ Each practical is organised into a separate folder, with its corresponding sourc
 | Practical 08 |JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties|  https://github.com/ranuv2529-gif/javapractical/tree/main/Practical08 |
 | Practical 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical09 |
 | Practical 10 |Database Operations (CRUD)|JDBC, MySQL, SQL, INSERT, SELECT, UPDATE, DELETE, ActionListener |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical10 |
-| Practical 11 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT |Database Operations (CRUD)  |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical11|
+| Practical 11 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical11|
