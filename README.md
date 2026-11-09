@@ -26,9 +26,9 @@ Each practical is organised into a separate folder, with its corresponding sourc
 | Practical 03 | Calculator using AWT	| AWT, GUI Components, Event Handling, ActionListener	| https://github.com/ranuv2529-gif/javapractical/tree/main/Practical03 |
 | Practical 04 | Client-Server Communication | Networking, TCP/UDP, ServerSocket, Socket, Client-Server Architecture | https://github.com/ranuv2529-gif/javapractical/tree/main/Practical04 |	
 | Practical 05 | Notepad Application | Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical05|
-| Practical 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical06 |
-| Practical 07 | Student Login Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical07 |
-| Practical 08 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical08 |
-| Practical 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical09 |
-| Practical 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical10 |
-| Practical 11 | Database Operations (CRUD) | JDBC, MySQL, SQL, INSERT, SELECT, UPDATE, DELETE, ActionListener | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical11 |
+| Practical 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical06|
+| Practical 07 | Student Login Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | https://github.com/ranuv2529-gif/javapractical/tree/main/Practical07|
+| Practical 08 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | https://github.com/ranuv2529-gif/javapractical/tree/main/Practical08 |
+| Practical 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical09 |
+| Practical 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical10 |
+| Practical 11 | Database Operations (CRUD) | JDBC, MySQL, SQL, INSERT, SELECT, UPDATE, DELETE, ActionListener |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical11|
