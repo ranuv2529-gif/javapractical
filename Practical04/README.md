@@ -63,8 +63,10 @@ Note: Always run the server before running the client because the server must be
 # Sample Output
 ### Server Console
 <img width="1158" height="166" alt="Output04(1)" src="https://github.com/user-attachments/assets/b8e4ea43-3961-4d12-985b-16853c46fa56" />
-### Client Console
+
+# Client Console
 <img width="1313" height="156" alt="Output04(2)" src="https://github.com/user-attachments/assets/cf5c74b5-08e6-4853-94db-23f2f5d233d9" />
+
 # Important Points
 - localhost refers to the same computer on which the programs are running.
 - Port 5001 is used for communication between the client and server.
