@@ -1,8 +1,11 @@
 # Java Practical 
 
-**Name:** Ranu Verma
+**Name:** Ranu Verma  
+
 **Program:** Bachelor of Technology (B.Tech CSE)  
-**Semester:** III
+
+**Semester:** III  
+
 **Subject:** Object Oriented Programming with Java  
 
 ## About This Repository
@@ -21,7 +24,7 @@ Each practical is organised into a separate folder, with its corresponding sourc
 
 | Practical |	The Topic | Concepts | Used	Folder Link |
 |---|---|---|---|
-| Practical 01 | Matrix Multiplication |	2D Arrays, InputStreamReader, BufferedReader, Loops | |	
+| Practical 01 | Matrix Multiplication |	2D Arrays, InputStreamReader, BufferedReader, Loops ||	
 | Practical 02 |String Animation using Applet	| Applet, Multithreading, Thread Class, Graphics | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical02 |
 | Practical 03 | Calculator using AWT	| AWT, GUI Components, Event Handling, ActionListener	| https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical03 |
 | Practical 04 | Client-Server Communication | Networking, TCP/UDP, ServerSocket, Socket, Client-Server Architecture | https://github.com/aashiyauppal/Java-Practicals/tree/271d5d2b6bae92f80a8eff0340028a197e5b703e/Practical04 |	
