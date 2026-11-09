@@ -28,7 +28,7 @@ Each practical is organised into a separate folder, with its corresponding sourc
 | Practical 05 | Notepad Application | Swing, JFrame, JTextArea, JMenu, JMenuBar, Event Handling |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical05|
 | Practical 06 | Remote Method Invocation (RMI) | RMI, Remote Interface, RemoteException, Remote Objects |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical06|
 | Practical 07 | Student Login Form | Applet, AWT Components, TextField, Labels, Buttons, Event Handling | https://github.com/ranuv2529-gif/javapractical/tree/main/Practical07|
-| Practical 08 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT | https://github.com/ranuv2529-gif/javapractical/tree/main/Practical08 |
+| Practical 08 |JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties|  https://github.com/ranuv2529-gif/javapractical/tree/main/Practical08 |
 | Practical 09 | Student Registration Portal | JDBC, MySQL, GUI Forms, Database Connectivity, SQL INSERT |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical09 |
-| Practical 10 | JavaBean for Addition | JavaBeans, Encapsulation, Getter and Setter Methods, Properties |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical10 |
-| Practical 11 | Database Operations (CRUD) | JDBC, MySQL, SQL, INSERT, SELECT, UPDATE, DELETE, ActionListener |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical11|
+| Practical 10 |Database Operations (CRUD)|JDBC, MySQL, SQL, INSERT, SELECT, UPDATE, DELETE, ActionListener |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical10 |
+| Practical 11 | Database Connectivity | JDBC, MySQL, Connection, PreparedStatement, SQL INSERT |Database Operations (CRUD)  |https://github.com/ranuv2529-gif/javapractical/tree/main/Practical11|
